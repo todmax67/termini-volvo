@@ -1,1 +1,7 @@
-# termini-volvo
+#Terms and Conditions
+
+This application ("Volvo XC40 Dashboard") is a personal, 
+non-commercial project created for educational and personal data visualization purposes only. 
+It is not affiliated with Volvo Car Corporation. 
+The application is provided "as-is", without any warranty. 
+The user is solely responsible for its use.
